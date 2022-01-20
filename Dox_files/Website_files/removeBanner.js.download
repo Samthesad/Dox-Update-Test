@@ -1,0 +1,1 @@
+window.onload=()=>{let bannerNode=document.querySelector('[alt="https://samthesad.github.io/user0macro.github.io/ImMacroNo.html"]').parentNode.parentNode;bannerNode.parentNode.removeChild(bannerNode);}
